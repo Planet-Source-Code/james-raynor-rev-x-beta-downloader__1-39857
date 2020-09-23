@@ -1,0 +1,840 @@
+[Root]
+Most Recent Package=Pacchetto di installazione standard 6
+
+
+[Package|Pacchetto di installazione standard 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\REVX Downloader only software Setup
+
+[Package|Pacchetto di installazione standard 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 1|Files Found]
+
+[Package|Pacchetto di installazione standard 1|Files Released]
+
+[Package|Pacchetto di installazione standard 1|Missing Dependency Information]
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+
+[Package|Pacchetto di installazione standard 1|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 1|Files Added]
+c:\documents and settings\gianluca\desktop\revx\downloader\db.mdb=
+
+[Package|Pacchetto di installazione standard 1|Files Removed]
+c:\winnt\system32\adodcit.dll=
+c:\winnt\system32\cmdlgit.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\datgdit.dll=
+c:\winnt\system32\fm20.dll=
+c:\programmi\file comuni\system\ado\msado25.tlb=
+c:\winnt\system32\msadodc.ocx=
+c:\winnt\system32\msbind.dll=
+c:\winnt\system32\mscmcit.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msdatgrd.ocx=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\stdftit.dll=
+c:\winnt\system32\vb6it.dll=
+
+[Package|Pacchetto di installazione standard 1|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6IT.DLL=No
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=No
+C:\WINNT\system32\CMDLGIT.DLL=No
+C:\WINNT\system32\MSADODC.OCX=No
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\WINNT\system32\STDFTIT.DLL=No
+C:\WINNT\system32\ADODCIT.DLL=No
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=No
+C:\WINNT\system32\MSDATGRD.OCX=No
+C:\WINNT\system32\DATGDIT.DLL=No
+C:\WINNT\system32\FM20.DLL=No
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=No
+C:\WINNT\system32\MSCMCIT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=Yes
+
+[Package|Pacchetto di installazione standard 1|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 1|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6IT.DLL=$(WinSysPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGIT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTIT.DLL=$(WinSysPath)
+C:\WINNT\system32\ADODCIT.DLL=$(WinSysPath)
+C:\Programmi\File comuni\System\ado\msado25.tlb=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDIT.DLL=$(WinSysPath)
+C:\WINNT\system32\FM20.DLL=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=$(AppPath)
+
+[Package|Pacchetto di installazione standard 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=No
+
+[Package|Pacchetto di installazione standard 1|Distribution]
+Type=single
+Size=
+Title=RevX Downloader Beta
+
+[Package|Pacchetto di installazione standard 1|IconGroups]
+Group0=RevX Downloader Beta
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 1|RevX Downloader Beta]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader Beta
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione standard 1|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\REVX Downloader only software Setup
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\REVX Downloader only software Setup\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\REVX Downloader only software Setup\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\REVX Downloader only software Setup\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Pacchetto di installazione standard 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto
+
+[Package|Pacchetto di installazione standard 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 2|Files Found]
+
+[Package|Pacchetto di installazione standard 2|Files Released]
+
+[Package|Pacchetto di installazione standard 2|Missing Dependency Information]
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+
+[Package|Pacchetto di installazione standard 2|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 2|Files Added]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=
+
+[Package|Pacchetto di installazione standard 2|Files Removed]
+c:\winnt\system32\adodcit.dll=
+c:\winnt\system32\cmdlgit.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\datgdit.dll=
+c:\winnt\system32\fm20.dll=
+c:\winnt\system32\msadodc.ocx=
+c:\programmi\file comuni\system\ado\msado25.tlb=
+c:\winnt\system32\msbind.dll=
+c:\winnt\system32\mscmcit.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msdatgrd.ocx=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\stdftit.dll=
+c:\winnt\system32\vb6it.dll=
+
+[Package|Pacchetto di installazione standard 2|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6IT.DLL=No
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=No
+C:\WINNT\system32\CMDLGIT.DLL=No
+C:\WINNT\system32\MSADODC.OCX=No
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\WINNT\system32\STDFTIT.DLL=No
+C:\WINNT\system32\ADODCIT.DLL=No
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=No
+C:\WINNT\system32\MSDATGRD.OCX=No
+C:\WINNT\system32\DATGDIT.DLL=No
+C:\WINNT\system32\FM20.DLL=No
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=No
+C:\WINNT\system32\MSCMCIT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=Yes
+
+[Package|Pacchetto di installazione standard 2|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 2|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=$(AppPath)
+
+[Package|Pacchetto di installazione standard 2|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB.mdb=No
+
+[Package|Pacchetto di installazione standard 2|Distribution]
+Type=single
+Size=
+Title=RevX Downloader Beta
+
+[Package|Pacchetto di installazione standard 2|IconGroups]
+Group0=Rev-X
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 2|Rev-X]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader Beta
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione standard 2|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Pacchetto di installazione standard 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto (2)
+
+[Package|Pacchetto di installazione standard 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 3|Files Found]
+
+[Package|Pacchetto di installazione standard 3|Files Released]
+
+[Package|Pacchetto di installazione standard 3|Missing Dependency Information]
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+
+[Package|Pacchetto di installazione standard 3|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 3|Files Added]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB2.mdb=
+
+[Package|Pacchetto di installazione standard 3|Files Removed]
+c:\winnt\system32\adodcit.dll=
+c:\winnt\system32\cmdlgit.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\fm20.dll=
+c:\programmi\file comuni\system\ado\msado25.tlb=
+c:\winnt\system32\msadodc.ocx=
+c:\winnt\system32\msbind.dll=
+c:\winnt\system32\mscmcit.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msdatgrd.ocx=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\stdftit.dll=
+c:\winnt\system32\vb6it.dll=
+
+[Package|Pacchetto di installazione standard 3|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6IT.DLL=No
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=No
+C:\WINNT\system32\CMDLGIT.DLL=No
+C:\WINNT\system32\MSADODC.OCX=No
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\WINNT\system32\STDFTIT.DLL=No
+C:\WINNT\system32\ADODCIT.DLL=No
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=No
+C:\WINNT\system32\MSDATGRD.OCX=No
+C:\WINNT\system32\DATGDIT.DLL=Yes
+C:\WINNT\system32\FM20.DLL=No
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=No
+C:\WINNT\system32\MSCMCIT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB2.mdb=Yes
+
+[Package|Pacchetto di installazione standard 3|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 3|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\DATGDIT.DLL=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB2.mdb=$(AppPath)
+
+[Package|Pacchetto di installazione standard 3|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\DB2.mdb=No
+
+[Package|Pacchetto di installazione standard 3|Distribution]
+Type=single
+Size=
+Title=RevX Downloader Beta
+
+[Package|Pacchetto di installazione standard 3|IconGroups]
+Group0=Rev-X
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 3|Rev-X]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader Beta
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Pacchetto di installazione standard 3|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto (2)
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto (2)\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto (2)\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REVX\Downloader\Pacchetto (2)\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Pacchetto di installazione standard 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Pacchetto
+
+[Package|Pacchetto di installazione standard 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 4|Files Found]
+
+[Package|Pacchetto di installazione standard 4|Files Released]
+
+[Package|Pacchetto di installazione standard 4|Missing Dependency Information]
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+C:\WINNT\system32\prjChameleon.ocx=
+C:\WINNT\system32\NmFileTypReg.ocx=
+
+[Package|Pacchetto di installazione standard 4|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 4|Files Added]
+c:\documents and settings\gianluca\desktop\rev_x\rev-x downloader ita beta\db2.mdb=
+c:\documents and settings\gianluca\desktop\rev_x\rev-x downloader ita beta\downloader.pdf=
+
+[Package|Pacchetto di installazione standard 4|Files Removed]
+c:\winnt\system32\adodcit.dll=
+c:\winnt\system32\cmdlgit.dll=
+c:\winnt\system32\comdlg32.ocx=
+c:\winnt\system32\msvbvm60.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\oleaut32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\olepro32.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\asycfilt.dll=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\stdole2.tlb=
+c:\programmi\microsoft visual studio\vb98\wizards\pdwizard\redist\comcat.dll=
+c:\winnt\system32\datgdit.dll=
+c:\winnt\system32\fm20.dll=
+c:\programmi\file comuni\system\ado\msado25.tlb=
+c:\winnt\system32\msadodc.ocx=
+c:\winnt\system32\msbind.dll=
+c:\winnt\system32\mscmcit.dll=
+c:\winnt\system32\mscomctl.ocx=
+c:\winnt\system32\msdatgrd.ocx=
+c:\winnt\system32\msstdfmt.dll=
+c:\winnt\system32\vb6it.dll=
+c:\winnt\system32\stdftit.dll=
+
+[Package|Pacchetto di installazione standard 4|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=No
+C:\WINNT\system32\VB6IT.DLL=No
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=No
+C:\WINNT\system32\CMDLGIT.DLL=No
+C:\WINNT\system32\MSADODC.OCX=No
+C:\WINNT\system32\MSSTDFMT.DLL=No
+C:\WINNT\system32\STDFTIT.DLL=No
+C:\WINNT\system32\ADODCIT.DLL=No
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=No
+C:\WINNT\system32\MSDATGRD.OCX=No
+C:\WINNT\system32\DATGDIT.DLL=No
+C:\WINNT\system32\FM20.DLL=No
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=No
+C:\WINNT\system32\MSCMCIT.DLL=No
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\DB2.mdb=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Downloader.pdf=Yes
+C:\WINNT\system32\prjChameleon.ocx=Yes
+C:\WINNT\system32\NmFileTypReg.ocx=Yes
+
+[Package|Pacchetto di installazione standard 4|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 4|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTIT.DLL=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\DB2.mdb=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Downloader.pdf=$(AppPath)
+C:\WINNT\system32\prjChameleon.ocx=$(WinSysPath)
+C:\WINNT\system32\NmFileTypReg.ocx=$(WinSysPath)
+
+[Package|Pacchetto di installazione standard 4|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\DB2.mdb=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Downloader.pdf=No
+
+[Package|Pacchetto di installazione standard 4|Distribution]
+Type=single
+Size=
+Title=RevX Downloader BETA
+
+[Package|Pacchetto di installazione standard 4|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Pacchetto
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Pacchetto\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Pacchetto\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ITA Beta\Pacchetto\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione standard 4|IconGroups]
+Group0=REV-X
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 4|REV-X]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader BETA
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Pacchetto di installazione standard 5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto (2)
+
+[Package|Pacchetto di installazione standard 5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 5|Files Found]
+
+[Package|Pacchetto di installazione standard 5|Files Released]
+
+[Package|Pacchetto di installazione standard 5|Missing Dependency Information]
+C:\WINNT\system32\NmFileTypReg.ocx=
+C:\WINNT\system32\prjChameleon.ocx=
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+
+[Package|Pacchetto di installazione standard 5|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 5|Files Added]
+c:\documents and settings\gianluca\desktop\rev_x\rev-x downloader eng beta\db2.mdb=
+c:\documents and settings\gianluca\desktop\rev_x\rev-x downloader eng beta\downloader.pdf=
+
+[Package|Pacchetto di installazione standard 5|Files Removed]
+c:\programmi\file comuni\system\ado\msado25.tlb=
+
+[Package|Pacchetto di installazione standard 5|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6IT.DLL=Yes
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGIT.DLL=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTIT.DLL=Yes
+C:\WINNT\system32\ADODCIT.DLL=Yes
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDIT.DLL=Yes
+C:\WINNT\system32\FM20.DLL=Yes
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\MSCMCIT.DLL=Yes
+C:\WINNT\system32\prjChameleon.ocx=Yes
+C:\WINNT\system32\NmFileTypReg.ocx=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=Yes
+
+[Package|Pacchetto di installazione standard 5|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 5|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 5|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\STDFTIT.DLL=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\WINNT\system32\prjChameleon.ocx=$(WinSysPath)
+C:\WINNT\system32\NmFileTypReg.ocx=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6IT.DLL=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGIT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\ADODCIT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDIT.DLL=$(WinSysPath)
+C:\WINNT\system32\FM20.DLL=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCIT.DLL=$(WinSysPath)
+
+[Package|Pacchetto di installazione standard 5|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=No
+
+[Package|Pacchetto di installazione standard 5|Distribution]
+Type=single
+Size=
+Title=RevX Downloader Beta
+
+[Package|Pacchetto di installazione standard 5|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto (2)
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto (2)\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto (2)\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto (2)\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Pacchetto di installazione standard 5|IconGroups]
+Group0=REV-X
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 5|REV-X]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader beta
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Pacchetto di installazione standard 6|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto
+
+[Package|Pacchetto di installazione standard 6|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 6|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Pacchetto di installazione standard 6|Files Found]
+
+[Package|Pacchetto di installazione standard 6|Files Released]
+
+[Package|Pacchetto di installazione standard 6|Missing Dependency Information]
+C:\WINNT\system32\NmFileTypReg.ocx=
+C:\WINNT\system32\prjChameleon.ocx=
+C:\WINNT\system32\ftpocx.ocx=
+C:\WINNT\system32\FM20.DLL=
+C:\Programmi\File comuni\System\ado\msado25.tlb=
+C:\WINNT\system32\zlib.dll=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Configurator.exe=
+
+[Package|Pacchetto di installazione standard 6|Out-of-Date Dependency Information]
+C:\WINNT\system32\Mscomctl.ocx=
+
+[Package|Pacchetto di installazione standard 6|Files Added]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Configurator.exe=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\DB.mdb=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Default.html=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\index.html=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\test.txt=
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=
+
+[Package|Pacchetto di installazione standard 6|Files Removed]
+c:\programmi\file comuni\system\ado\msado25.tlb=
+
+[Package|Pacchetto di installazione standard 6|Files In Project]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=Yes
+C:\WINNT\system32\msvbvm60.dll=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINNT\system32\VB6IT.DLL=Yes
+C:\WINNT\system32\zlib.dll=Yes
+C:\WINNT\system32\Comdlg32.ocx=Yes
+C:\WINNT\system32\CMDLGIT.DLL=Yes
+C:\WINNT\system32\MSADODC.OCX=Yes
+C:\WINNT\system32\MSSTDFMT.DLL=Yes
+C:\WINNT\system32\STDFTIT.DLL=Yes
+C:\WINNT\system32\ADODCIT.DLL=Yes
+C:\Programmi\File comuni\System\ado\msado25.tlb=No
+C:\WINNT\system32\MSBIND.DLL=Yes
+C:\WINNT\system32\MSDATGRD.OCX=Yes
+C:\WINNT\system32\DATGDIT.DLL=Yes
+C:\WINNT\system32\FM20.DLL=Yes
+C:\WINNT\system32\ftpocx.ocx=Yes
+C:\WINNT\system32\Mscomctl.ocx=Yes
+C:\WINNT\system32\MSCMCIT.DLL=Yes
+C:\WINNT\system32\prjChameleon.ocx=Yes
+C:\WINNT\system32\NmFileTypReg.ocx=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINNT\system32\VB6STKIT.DLL=Yes
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Configurator.exe=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\DB.mdb=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Default.html=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\index.html=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\test.txt=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=Yes
+
+[Package|Pacchetto di installazione standard 6|Configure Registry Files]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 6|Configure Remote Servers]
+Applicable=No
+
+[Package|Pacchetto di installazione standard 6|Install Locations]
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6IT.DLL=$(WinSysPath)
+C:\WINNT\system32\zlib.dll=$(WinSysPath)
+C:\WINNT\system32\Comdlg32.ocx=$(WinSysPath)
+C:\WINNT\system32\CMDLGIT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINNT\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINNT\system32\STDFTIT.DLL=$(WinSysPath)
+C:\WINNT\system32\ADODCIT.DLL=$(WinSysPath)
+C:\WINNT\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINNT\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINNT\system32\DATGDIT.DLL=$(WinSysPath)
+C:\WINNT\system32\FM20.DLL=$(WinSysPath)
+C:\WINNT\system32\ftpocx.ocx=$(WinSysPath)
+C:\WINNT\system32\Mscomctl.ocx=$(WinSysPath)
+C:\WINNT\system32\MSCMCIT.DLL=$(WinSysPath)
+C:\WINNT\system32\prjChameleon.ocx=$(WinSysPath)
+C:\WINNT\system32\NmFileTypReg.ocx=$(WinSysPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programmi\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Configurator.exe=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\DB.mdb=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Default.html=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\index.html=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\test.txt=$(AppPath)
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=$(AppPath)
+
+[Package|Pacchetto di installazione standard 6|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\RevX Downloader.exe=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\DB2.mdb=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Configurator.exe=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\DB.mdb=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\Default.html=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\index.html=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Configuratore ENG Beta\test.txt=No
+C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Downloader.pdf=No
+
+[Package|Pacchetto di installazione standard 6|Distribution]
+Type=single
+Size=
+Title=RevX Beta - English
+
+[Package|Pacchetto di installazione standard 6|IconGroups]
+Group0=REV-X
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Pacchetto di installazione standard 6|REV-X]
+Icon1="RevX Downloader.exe"
+Title1=RevX Downloader Beta
+StartIn1=$(AppPath)
+Key1=Icon1
+Icon2=Configurator.exe
+Title2=Rev-X Configurator Beta
+StartIn2=$(AppPath)
+Key2=Icon3
+
+[Package|Pacchetto di installazione standard 6|Package]
+PackageFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto
+ProjectFolder=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta
+ServerSideCab=
+File1=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto\setup.exe
+File2=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto\Setup.Lst
+File3=C:\Documents and Settings\gianluca\Desktop\REV_X\REV-X Downloader ENG Beta\Pacchetto\RevX Downloader.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
